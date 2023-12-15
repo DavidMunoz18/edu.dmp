@@ -1,0 +1,63 @@
+@charset "UTF-8";
+
+
+header {
+	background-color: yellow;
+	display: flex;
+	text-decoration: underline red;
+	text-align: center;
+	display: flex;
+	font-size: 5rem;
+}
+
+.bot1 {
+	border: solid black;
+	background-color: skyblue;
+}
+
+.bot2 {
+	border: solid black;
+	background-color: skyblue;
+	float: inline-end;
+}
+
+.bot3 {
+	border: solid black;
+	background-color: skyblue;
+}
+
+.bot4 {
+	border: solid black;
+	background-color: skyblue;
+	float: inline-end;
+}
+
+nav {
+	border: solid black;
+	background-color: yellow;
+}
+
+body {
+	border: solid black;
+}
+
+h2 {
+	color: green;
+	margin-left: 300px;
+}
+
+.texto {
+	margin-left: 300px;
+	display: flex;
+}
+
+.imagen {
+	width: 200px;
+	display: flex;
+	float: inline-start;
+}
+
+figure {
+	float: inline-start;
+
+}

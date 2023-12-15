@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+h1 {
+	font-size: 3rem;
+	border: solid black;
+	border: 2px solid;
+	letter-spacing: 2px;
+	padding: 5px;
+}
+
+.tabla {
+	border-collapse: collapse;
+}
+
+td {
+	border-top: solid black;
+	border-bottom: solid black;
+}
+
+.producto {
+	border: solid black;
+	border-width: 5px;
+
+}
+
+.prod1 {
+	border: solid black;
+}
+
+.t1 {
+	background-color: blue;
+}
+
+.t2 {
+	background-color: skyblue;
+}
+
+.t3 {
+	background-color: gray;
+	color: white;
+}
